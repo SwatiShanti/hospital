@@ -1,0 +1,12 @@
+i
+Patient1 - Dr. Sharma - 9:00AM
+Patient2 - Dr. Mehta - 9:30AM
+Patient3 - Dr. Sharma - 10:00AM
+Patient4 - Dr. Gupta - 10:30AM
+Patient5 - Dr. Sharma - 11:00AM
+Patient6 - Dr. Patel - 11:30AM
+Patient7 - Dr. Sharma - 12:00PM
+Patient8 - Dr. Verma - 12:30PM
+Patient9 - Dr. Sharma - 1:00PM
+Patient10 - Dr. Mehta - 1:30PM
+
