@@ -2,4 +2,6 @@ Patient1 - Dr. Sharma - 9:00AM
 Patient3 - Dr. Sharma - 10:00AM
 Patient5 - Dr. Sharma - 11:00AM
 Patient7 - Dr. Sharma - 12:00PM
-Patient9 - Dr. Sharma - 1:00PM
+i
+Doctor-wise Report
+(press Enter)Patient9 - Dr. Sharma - 1:00PM
